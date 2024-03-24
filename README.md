@@ -40,4 +40,4 @@ This application should now be running on `localhost`. If you want to Fork repos
 
 ## 🔗 Let's Connect
 
-[![linkedin](https://www.linkedin.com/in/sameer-pce/)
+[![linkedin](https://www.linkedin.com/in/sameer-pce/)]
